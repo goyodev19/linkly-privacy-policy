@@ -45,4 +45,4 @@ una actualización de la app.
 ## Contacto
 
 Si tienes preguntas sobre esta política contáctanos en:
-**tu@email.com**
+**goyo.dev.19@gmail.com**
